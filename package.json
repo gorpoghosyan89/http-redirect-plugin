@@ -1,0 +1,15 @@
+{
+  "name": "http-redirect-plugin",
+  "description": "http simple redirect plugin",
+  "dependencies": {
+    "node-wp-i18n": "^1.0.4"
+  },
+  "author": "10up",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gorpoghosyan89/http-redirect-plugin.git"
+  },
+  "scripts": {
+    "makepot": "wpi18n makepot"
+  }
+}
